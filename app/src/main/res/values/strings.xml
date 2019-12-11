@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notify</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Notify</string>
+    <string name="nav_header_subtitle">Server Settings: IP: localhost Port: 80</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_overview">Overview</string>
+    <string name="menu_installed_applications">Installed Applications</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>
